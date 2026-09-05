@@ -1221,7 +1221,17 @@
                 "x": 490,
                 "y": 230
               }
-            ]
+            ],
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove",
+                "vertices",
+                "source-arrowhead",
+                "target-arrowhead"
+              ],
+              "name": null
+            }
           },
           {
             "shape": "flow",
@@ -1407,6 +1417,9 @@
                 "targetMarker": {
                   "name": "block"
                 },
+                "sourceMarker": {
+                  "name": ""
+                },
                 "strokeDasharray": null
               }
             },
@@ -1444,14 +1457,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              {
-                "attrs": {
-                  "label": {
-                    "text": "Resultados Web App Query"
-                  }
-                },
-                "position": 0.5
-              }
+              "Resultados Web App Query"
             ],
             "id": "b20946a1-b427-4fc4-afc9-210ace7fa912",
             "source": {
@@ -1462,8 +1468,8 @@
             },
             "vertices": [
               {
-                "x": 420,
-                "y": 340
+                "x": 460,
+                "y": 320
               }
             ]
           }
