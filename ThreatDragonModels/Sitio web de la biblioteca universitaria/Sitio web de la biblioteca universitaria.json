@@ -42,8 +42,91 @@
                 "strokeDasharray": null
               }
             },
+            "visible": true,
             "shape": "actor",
             "zIndex": 1,
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "4812d5ab-870d-47fc-964d-fde79507bd8f"
+                },
+                {
+                  "group": "right",
+                  "id": "f1233ea0-940e-49b3-ae2f-4065a2fdbfd1"
+                },
+                {
+                  "group": "bottom",
+                  "id": "b41fedc2-fe25-4aa0-96d9-a04d197bb09b"
+                },
+                {
+                  "group": "left",
+                  "id": "83d9a7c2-c734-4772-aa82-7dad89fee79c"
+                }
+              ]
+            },
             "id": "69658ef5-a461-456b-8947-524a4b98c91e",
             "data": {
               "name": "Usuarios",
@@ -90,8 +173,91 @@
                 "strokeDasharray": null
               }
             },
+            "visible": true,
             "shape": "actor",
             "zIndex": 1,
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "ff1445c9-3fb0-4731-b2d4-00b65452a239"
+                },
+                {
+                  "group": "right",
+                  "id": "cdf13e31-c66f-4129-a15e-25eafc12bb5c"
+                },
+                {
+                  "group": "bottom",
+                  "id": "bf714591-1807-4a3b-bf11-ffacee9b479b"
+                },
+                {
+                  "group": "left",
+                  "id": "01ec7492-06f8-4d49-9f8b-455ec1e6b6e4"
+                }
+              ]
+            },
             "id": "f210ec1b-bcc0-41b2-9886-85fead08f368",
             "data": {
               "name": "Bibliotecario",
@@ -138,8 +304,91 @@
                 "strokeDasharray": null
               }
             },
+            "visible": true,
             "shape": "process",
             "zIndex": 2,
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "f085f9d7-c2e6-41e7-94c9-42d1ab8556bd"
+                },
+                {
+                  "group": "right",
+                  "id": "908947bd-4c0e-460f-b0ed-08777ebe393c"
+                },
+                {
+                  "group": "bottom",
+                  "id": "c4986d18-8e8c-4bfa-9270-c6d0274ed4aa"
+                },
+                {
+                  "group": "left",
+                  "id": "b9989d13-af65-4a3d-985c-924381ee5dd1"
+                }
+              ]
+            },
             "id": "41812a41-54b5-4589-a398-5d0ae8cfa50e",
             "data": {
               "name": "Sitio web biblioteca",
@@ -182,18 +431,99 @@
                 "text": "Páginas web\nen disco"
               },
               "topLine": {
-                "stroke": "#333333",
                 "strokeWidth": 1.5,
                 "strokeDasharray": null
               },
               "bottomLine": {
-                "stroke": "#333333",
                 "strokeWidth": 1.5,
                 "strokeDasharray": null
               }
             },
+            "visible": true,
             "shape": "store",
             "zIndex": 3,
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "eac81fa6-244d-4e1c-ad82-56e5c9d550db"
+                },
+                {
+                  "group": "right",
+                  "id": "77cd427c-e7c6-4a8c-a327-4b05a136bdb7"
+                },
+                {
+                  "group": "bottom",
+                  "id": "3fdbef83-b91c-4f01-9b24-e410f24847a6"
+                },
+                {
+                  "group": "left",
+                  "id": "c5b6d569-7257-4acc-a542-3d0f644cffba"
+                }
+              ]
+            },
             "id": "ae788e99-f597-4cf6-951d-7ed7083c468c",
             "data": {
               "name": "Páginas web en disco",
@@ -248,8 +578,91 @@
                 "strokeDasharray": null
               }
             },
+            "visible": true,
             "shape": "store",
             "zIndex": 3,
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "fd4761a6-7d70-453b-8ee8-f40bebc6e9b3"
+                },
+                {
+                  "group": "right",
+                  "id": "03aa0775-0cf7-4534-9910-061cbce65c64"
+                },
+                {
+                  "group": "bottom",
+                  "id": "405ab5d5-81f5-4fd3-8b52-14b9e5181640"
+                },
+                {
+                  "group": "left",
+                  "id": "14fd5872-d2be-4131-8371-7d6a916edd62"
+                }
+              ]
+            },
             "id": "b32c8753-1fb5-488c-b3e8-d37b36ceb480",
             "data": {
               "name": "Web Application Config",
@@ -282,8 +695,8 @@
           },
           {
             "position": {
-              "x": 540,
-              "y": 480
+              "x": 620,
+              "y": 390
             },
             "size": {
               "width": 160,
@@ -304,8 +717,91 @@
                 "strokeDasharray": null
               }
             },
+            "visible": true,
             "shape": "store",
             "zIndex": 3,
+            "ports": {
+              "groups": {
+                "top": {
+                  "position": "top",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "right": {
+                  "position": "right",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "bottom": {
+                  "position": "bottom",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                },
+                "left": {
+                  "position": "left",
+                  "attrs": {
+                    "circle": {
+                      "r": 4,
+                      "magnet": true,
+                      "stroke": "#5F95FF",
+                      "strokeWidth": 1,
+                      "fill": "#fff",
+                      "style": {
+                        "visibility": "hidden"
+                      }
+                    }
+                  }
+                }
+              },
+              "items": [
+                {
+                  "group": "top",
+                  "id": "6dc60c4d-6c58-4053-aa25-0e4b0d52062f"
+                },
+                {
+                  "group": "right",
+                  "id": "ce7d8f84-e8b8-4f04-ba95-ae7c1f9efd37"
+                },
+                {
+                  "group": "bottom",
+                  "id": "5d2b7918-88a6-4f9e-b1af-72b14fe8ab0c"
+                },
+                {
+                  "group": "left",
+                  "id": "b861d6ea-3ccb-4186-b60b-16d32292410c"
+                }
+              ]
+            },
             "id": "9d2fd065-215e-405b-9f01-dfe8e4b5c484",
             "data": {
               "name": "Base de datos",
@@ -354,9 +850,8 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 3,
-                "strokeDasharray": "7 5",
                 "targetMarker": "",
+                "strokeDasharray": "7 5",
                 "sourceMarker": ""
               }
             },
@@ -364,22 +859,27 @@
             "height": 100,
             "zIndex": 10,
             "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "Usuario/Web server límite",
+              "description": "Límite de confianza entre clientes/usuarios externos y la aplicación web",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false,
+              "crossingFlows": [],
+              "containedElements": []
+            },
             "labels": [
               {
                 "attrs": {
+                  "label": {
+                    "text": "Trust Boundary"
+                  },
                   "text": {
                     "text": "Usuario/Web server límite"
                   }
                 }
               }
             ],
-            "data": {
-              "type": "tm.Boundary",
-              "name": "Usuario/Web server límite",
-              "description": "Límite de confianza entre clientes/usuarios externos y la aplicación web",
-              "isTrustBoundary": true,
-              "hasOpenThreats": false
-            },
             "id": "0267ba2f-8128-409b-b07d-ba8cb94bae1c",
             "source": {
               "x": 60,
@@ -401,9 +901,8 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 3,
-                "strokeDasharray": "7 5",
                 "targetMarker": "",
+                "strokeDasharray": "7 5",
                 "sourceMarker": ""
               }
             },
@@ -411,22 +910,27 @@
             "height": 100,
             "zIndex": 10,
             "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "Límite Web server/Db",
+              "description": "Límite de confianza entre el servidor web y el servidor de base de datos MySQL",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false,
+              "crossingFlows": [],
+              "containedElements": []
+            },
             "labels": [
               {
                 "attrs": {
+                  "label": {
+                    "text": "Trust Boundary"
+                  },
                   "text": {
                     "text": "Límite Web server/Db"
                   }
                 }
               }
             ],
-            "data": {
-              "type": "tm.Boundary",
-              "name": "Límite Web server/Db",
-              "description": "Límite de confianza entre el servidor web y el servidor de base de datos MySQL",
-              "isTrustBoundary": true,
-              "hasOpenThreats": false
-            },
             "id": "93193a67-fc1b-4fba-954c-425a0a2e69f6",
             "source": {
               "x": 450,
@@ -464,12 +968,13 @@
               "name": "Web Request",
               "description": "Respuestas recibidas por la aplicación hacia los usuarios.",
               "outOfScope": false,
+              "isTrustBoundary": false,
               "reasonOutOfScope": "",
-              "protocol": "HTTP/S",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
               "isEncrypted": false,
               "isPublicNetwork": true,
-              "hasOpenThreats": true,
-              "isTrustBoundary": false,
+              "protocol": "HTTP/S",
               "threats": [
                 {
                   "id": "6ec130a1-d26f-4c45-b8e7-1dddf3a554ea",
@@ -484,19 +989,20 @@
                   "modelType": "STRIDE",
                   "score": ""
                 }
-              ]
+              ],
+              "trustBoundaryIds": []
             },
-            "id": "69d1b215-2218-4876-b315-094e00d87d5f",
             "labels": [
               {
-                "position": 0.5,
                 "attrs": {
                   "label": {
                     "text": "Web Request"
                   }
-                }
+                },
+                "position": 0.5
               }
             ],
+            "id": "69d1b215-2218-4876-b315-094e00d87d5f",
             "source": {
               "cell": "69658ef5-a461-456b-8947-524a4b98c91e"
             },
@@ -531,12 +1037,13 @@
               "name": "Web Response",
               "description": "Respuestas enviadas por la aplicación hacia los usuarios.",
               "outOfScope": false,
+              "isTrustBoundary": false,
               "reasonOutOfScope": "",
-              "protocol": "HTTP/S",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
               "isEncrypted": false,
               "isPublicNetwork": true,
-              "hasOpenThreats": true,
-              "isTrustBoundary": false,
+              "protocol": "HTTP/S",
               "threats": [
                 {
                   "id": "ab6e53d3-09f4-4258-bb7a-765ea1c772d6",
@@ -551,19 +1058,20 @@
                   "modelType": "STRIDE",
                   "score": ""
                 }
-              ]
+              ],
+              "trustBoundaryIds": []
             },
-            "id": "1ccee50a-cbca-461a-b937-605bc2670bcd",
             "labels": [
               {
-                "position": 0.5,
                 "attrs": {
                   "label": {
                     "text": "Web Response"
                   }
-                }
+                },
+                "position": 0.5
               }
             ],
+            "id": "1ccee50a-cbca-461a-b937-605bc2670bcd",
             "source": {
               "cell": "41812a41-54b5-4589-a398-5d0ae8cfa50e"
             },
@@ -598,12 +1106,13 @@
               "name": "Web Request",
               "description": "Respuestas recibidas por la aplicación hacia los bibliotecarios.",
               "outOfScope": false,
+              "isTrustBoundary": false,
               "reasonOutOfScope": "",
-              "protocol": "HTTP/S",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
               "isEncrypted": false,
               "isPublicNetwork": true,
-              "hasOpenThreats": true,
-              "isTrustBoundary": false,
+              "protocol": "HTTP/S",
               "threats": [
                 {
                   "id": "739de37f-9593-4963-847d-064099329054",
@@ -618,19 +1127,20 @@
                   "modelType": "STRIDE",
                   "score": ""
                 }
-              ]
+              ],
+              "trustBoundaryIds": []
             },
-            "id": "7e9bed6d-d1a7-4c44-b61f-882d4c9a33aa",
             "labels": [
               {
-                "position": 0.5,
                 "attrs": {
                   "label": {
                     "text": "Web Request"
                   }
-                }
+                },
+                "position": 0.5
               }
             ],
+            "id": "7e9bed6d-d1a7-4c44-b61f-882d4c9a33aa",
             "source": {
               "cell": "f210ec1b-bcc0-41b2-9886-85fead08f368"
             },
@@ -665,12 +1175,13 @@
               "name": "Web Response",
               "description": "Respuestas enviadas por la aplicación hacia los bibliotecarios.",
               "outOfScope": false,
+              "isTrustBoundary": false,
               "reasonOutOfScope": "",
-              "protocol": "HTTP/S",
+              "hasOpenThreats": true,
+              "isBidirectional": false,
               "isEncrypted": false,
               "isPublicNetwork": true,
-              "hasOpenThreats": true,
-              "isTrustBoundary": false,
+              "protocol": "HTTP/S",
               "threats": [
                 {
                   "id": "f9d86845-5e1f-4623-a33f-53bf871497b8",
@@ -685,19 +1196,20 @@
                   "modelType": "STRIDE",
                   "score": ""
                 }
-              ]
+              ],
+              "trustBoundaryIds": []
             },
-            "id": "2aaee8db-ef60-4148-ba79-3395d278d104",
             "labels": [
               {
-                "position": 0.5,
                 "attrs": {
                   "label": {
                     "text": "Web Response"
                   }
-                }
+                },
+                "position": 0.5
               }
             ],
+            "id": "2aaee8db-ef60-4148-ba79-3395d278d104",
             "source": {
               "cell": "41812a41-54b5-4589-a398-5d0ae8cfa50e"
             },
@@ -716,7 +1228,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -732,25 +1243,27 @@
               "name": "Páginas",
               "description": "Páginas web leídas desde el disco.",
               "outOfScope": true,
+              "isTrustBoundary": false,
               "reasonOutOfScope": "Páginas web leídas desde el disco.",
-              "protocol": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
               "isEncrypted": false,
               "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "isTrustBoundary": false,
-              "threats": []
+              "protocol": "",
+              "threats": [],
+              "trustBoundaryIds": []
             },
-            "id": "66e99d1f-10ac-4fb5-8185-2b5c02f33e91",
             "labels": [
               {
-                "position": 0.5,
                 "attrs": {
                   "label": {
                     "text": "Páginas"
                   }
-                }
+                },
+                "position": 0.5
               }
             ],
+            "id": "66e99d1f-10ac-4fb5-8185-2b5c02f33e91",
             "source": {
               "cell": "ae788e99-f597-4cf6-951d-7ed7083c468c"
             },
@@ -769,7 +1282,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -785,25 +1297,27 @@
               "name": "Lee web app config",
               "description": "Archivo físico de configuración leído desde el disco.",
               "outOfScope": true,
+              "isTrustBoundary": false,
               "reasonOutOfScope": "Archivo físico de configuración leído desde el disco.",
-              "protocol": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
               "isEncrypted": false,
               "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "isTrustBoundary": false,
-              "threats": []
+              "protocol": "",
+              "threats": [],
+              "trustBoundaryIds": []
             },
-            "id": "40de3741-a5ee-4334-8db3-ca53299af64e",
             "labels": [
               {
-                "position": 0.5,
                 "attrs": {
                   "label": {
                     "text": "Lee web app config"
                   }
-                }
+                },
+                "position": 0.5
               }
             ],
+            "id": "40de3741-a5ee-4334-8db3-ca53299af64e",
             "source": {
               "cell": "b32c8753-1fb5-488c-b3e8-d37b36ceb480"
             },
@@ -822,7 +1336,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -838,12 +1351,13 @@
               "name": "Queries",
               "description": "Instrucciones de SQL enviadas hacia la base de datos.",
               "outOfScope": false,
+              "isTrustBoundary": false,
               "reasonOutOfScope": "",
-              "protocol": "SQL",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
               "isEncrypted": true,
               "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "isTrustBoundary": false,
+              "protocol": "SQL",
               "threats": [
                 {
                   "id": "9a20efd9-d96a-482f-abbe-0c19262cf7fb",
@@ -858,19 +1372,20 @@
                   "modelType": "STRIDE",
                   "score": ""
                 }
-              ]
+              ],
+              "trustBoundaryIds": []
             },
-            "id": "edf4f5ab-8159-460b-8e29-a61e1bb557b2",
             "labels": [
               {
-                "position": 0.5,
                 "attrs": {
                   "label": {
                     "text": "Queries"
                   }
-                }
+                },
+                "position": 0.5
               }
             ],
+            "id": "edf4f5ab-8159-460b-8e29-a61e1bb557b2",
             "source": {
               "cell": "41812a41-54b5-4589-a398-5d0ae8cfa50e"
             },
@@ -889,7 +1404,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -905,12 +1419,13 @@
               "name": "Resultados Web App Query",
               "description": "Datos recuperados desde la base de datos.",
               "outOfScope": false,
+              "isTrustBoundary": false,
               "reasonOutOfScope": "",
-              "protocol": "SQL",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
               "isEncrypted": true,
               "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "isTrustBoundary": false,
+              "protocol": "SQL",
               "threats": [
                 {
                   "id": "f3e18b3f-46bc-40b0-8e5c-3aff899d092c",
@@ -925,19 +1440,20 @@
                   "modelType": "STRIDE",
                   "score": ""
                 }
-              ]
+              ],
+              "trustBoundaryIds": []
             },
-            "id": "b20946a1-b427-4fc4-afc9-210ace7fa912",
             "labels": [
               {
-                "position": 0.5,
                 "attrs": {
                   "label": {
                     "text": "Resultados Web App Query"
                   }
-                }
+                },
+                "position": 0.5
               }
             ],
+            "id": "b20946a1-b427-4fc4-afc9-210ace7fa912",
             "source": {
               "cell": "9d2fd065-215e-405b-9f01-dfe8e4b5c484"
             },
